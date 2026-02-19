@@ -1,6 +1,6 @@
 Rename this file to .env
 
-MONGODB_URI={Create Your MongoDB URI And Use it You can use this if you are using Docker mongodb://localhost:27017/} 
+MONGODB_URI=mongodb+srv://shubhamkvsmrt_db_user:<db_password>@airesumebuilder.doeccww.mongodb.net/?appName=AiResumeBuilder 
 PORT=5001
 JWT_SECRET_KEY={Some Random String for Authentication}
 JWT_SECRET_EXPIRES_IN="1d"
