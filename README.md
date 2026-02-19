@@ -22,8 +22,7 @@ AI Resume Builder is a sophisticated web application that leverages artificial i
 - **Database:** MongoDB  
 
 ## Demo
-
-🔗 Watch a demonstration on [YouTube](https://youtu.be/IBdpMBvtZhU)  
+  
 
 🌐 Live demo: [AI Resume Builder](https://main--ai-resume-builder-07.netlify.app/)  
 
